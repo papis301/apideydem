@@ -1,0 +1,13 @@
+Array
+(
+    [pickup_lng] => -17.4218702
+    [drop_lat] => 14.7290151
+    [distance_km] => 6.27
+    [price] => 4387
+    [dropoff] => 6055 Rue SC 02, Dakar, Sénégal
+    [pickup] => Cambérène, Dakar, Sénégal
+    [drop_lng] => -17.4599482
+    [vehicle_type] => Voiture
+    [pickup_lat] => 14.7716841
+    [client_id] => 1
+)
