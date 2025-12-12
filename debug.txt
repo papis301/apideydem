@@ -1,13 +1,13 @@
 Array
 (
-    [pickup_lng] => -17.4218702
-    [drop_lat] => 14.7290151
-    [distance_km] => 6.27
-    [price] => 4387
-    [dropoff] => 6055 Rue SC 02, Dakar, Sénégal
-    [pickup] => Cambérène, Dakar, Sénégal
-    [drop_lng] => -17.4599482
-    [vehicle_type] => Voiture
-    [pickup_lat] => 14.7716841
+    [pickup_lng] => -17.311941
+    [drop_lat] => 14.716677
+    [distance_km] => 18.45
+    [price] => 7113
+    [dropoff] => Dakar, Sénégal
+    [pickup] => Keur Massar, Sénégal
+    [drop_lng] => -17.4676861
+    [vehicle_type] => Moto
+    [pickup_lat] => 14.786368
     [client_id] => 1
 )
