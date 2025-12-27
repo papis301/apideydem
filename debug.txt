@@ -1,13 +1,13 @@
 Array
 (
-    [pickup_lng] => -17.311941
-    [drop_lat] => 14.716677
-    [distance_km] => 18.45
-    [price] => 7113
-    [dropoff] => Dakar, Sénégal
-    [pickup] => Keur Massar, Sénégal
-    [drop_lng] => -17.4676861
+    [pickup_lng] => -17.467538
+    [drop_lat] => 14.7434582
+    [distance_km] => 5.28
+    [price] => 2639
+    [dropoff] => Almadies, Dakar, Sénégal
+    [pickup] => PGFJ+3X8, Dakar, Sénégal
+    [drop_lng] => -17.5116542
     [vehicle_type] => Moto
-    [pickup_lat] => 14.786368
+    [pickup_lat] => 14.7226588
     [client_id] => 1
 )

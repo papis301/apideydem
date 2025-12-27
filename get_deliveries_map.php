@@ -22,7 +22,8 @@ $q = $pdo->query("
         dropoff_address,
         dropoff_lat,
         dropoff_lng,
-        price
+        price,
+        client_id
     FROM coursesdeydem 
     WHERE status='pending'
 ");

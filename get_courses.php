@@ -16,7 +16,7 @@ try {
 }
 
 // Récupérer toutes les courses
-$sql = "SELECT id, client_id, driver_id, pickup_address, dropoff_address, price, status, created_at 
+$sql = "SELECT * 
         FROM coursesdeydem
         ORDER BY created_at DESC";
 

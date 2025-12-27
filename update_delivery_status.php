@@ -9,7 +9,7 @@ if (!$delivery_id || !$status) {
     exit;
 }
 
-$q = $pdo->prepare("UPDATE deliveries SET status=? WHERE id=?");
+$q = $pdo->prepare("UPDATE coursesdeydem SET status=? WHERE id=?");
 $ok = $q->execute([$status, $delivery_id]);
 
 echo $ok ? "success" : "fail";
